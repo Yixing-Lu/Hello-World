@@ -1,2 +1,4 @@
 # Hello-World
-This is my first repository in GitHub
+Hi, I am Yixing Lu.
+I am interested in Python and Machine-Learning, especially Reinforcement-Learning.
+And I love Iced Camaral Latte.
